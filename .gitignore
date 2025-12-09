@@ -3,8 +3,6 @@
 # -------------------------
 
 # Build outputs
-bin/
-obj/
 out/
 [Bb]uild/
 [Bb]uilds/
