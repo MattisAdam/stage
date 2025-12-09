@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/teste/style.css">
+
+</head>
+
+<body>
+    <h1>Fight</h1>
+
+
+    <div class="arena">
+        <div class="BonusArea">
+            <button id="BonusArea-Button"> bonus</button>
+            <p id="bonus"></p>
+
+        </div>
+        <!-- monstre1 -->
+        <div class="monstre-card">
+            <p class="triangle" id="IsTurnOfMonstre1"></p>
+            <img src="/teste/monstre.png" alt="Miaou">
+            <div class="hp-box">
+                <div id="monstre1HpBar" class="hp-fill"></div>
+            </div>
+            <div class="monstre1Infos">
+                <p id="monstre1Name"></p>
+                <p id="monstre1Type"></p>
+                <p id="monstre1HpText"></p>
+            </div>
+        </div>
+
+        <button onclick="Game()" id="attackBtn">attack</button>
+
+        <!-- monstre2 -->
+        <div class="monstre-card">
+            <p class="triangle" id="IsTurnOfMonstre2"></p>
+            <img src="/teste/monstre 2.png" alt="Miaou">
+            <div class="hp-box">
+                <div id="monstre2HpBar" class="hp-fill"></div>
+            </div>
+            <div class="monstre2Infos">
+                <p id="monstre2name"></p>
+                <p id="monstre2type"></p>
+                <p id="monstre2HpText"></p>
+            </div>
+        </div>
+
+    </div>
+    <script src="/teste/script.js"></script>
+</body>
+
+</html>
