@@ -1,0 +1,14 @@
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\bin\Debug\net9.0\ApprendreC#.exe
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\bin\Debug\net9.0\ApprendreC#.deps.json
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\bin\Debug\net9.0\ApprendreC#.runtimeconfig.json
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\bin\Debug\net9.0\ApprendreC#.dll
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\bin\Debug\net9.0\ApprendreC#.pdb
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\obj\Debug\net9.0\ApprendreC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\obj\Debug\net9.0\ApprendreC#.AssemblyInfoInputs.cache
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\obj\Debug\net9.0\ApprendreC#.AssemblyInfo.cs
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\obj\Debug\net9.0\ApprendreC#.csproj.CoreCompileInputs.cache
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\obj\Debug\net9.0\ApprendreC#.dll
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\obj\Debug\net9.0\refint\ApprendreC#.dll
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\obj\Debug\net9.0\ApprendreC#.pdb
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\obj\Debug\net9.0\ApprendreC#.genruntimeconfig.cache
+C:\Users\LEF\Desktop\Mathias\ApprendreC#\ApprendreC#\obj\Debug\net9.0\ref\ApprendreC#.dll
