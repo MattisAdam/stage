@@ -3,6 +3,7 @@
 # -------------------------
 
 # Build outputs
+.vs/
 out/
 [Bb]uild/
 [Bb]uilds/
