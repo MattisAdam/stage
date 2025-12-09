@@ -1,0 +1,74 @@
+# -------------------------
+#   C# / .NET
+# -------------------------
+
+# Build outputs
+bin/
+obj/
+out/
+[Bb]uild/
+[Bb]uilds/
+
+# Rider / VSCode / Visual Studio
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+*.nuspec
+
+# Logs
+*.log
+
+# Cache files
+*.db
+*.cache
+*.dll
+*.pdb
+
+# Environment
+.env
+
+# -------------------------
+#   Node / Frontend
+# -------------------------
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Temp files
+*.tmp
+*.temp
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -------------------------
+#   OS / Editor
+# -------------------------
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# General
+*.swp
+*.swo
